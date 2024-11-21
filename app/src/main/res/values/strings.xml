@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">QRCodeScannerApp</string>
+    <string name="resultText" translatable="false">Result</string>
+</resources>
